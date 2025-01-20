@@ -1,7 +1,7 @@
 # espocrm
 Puerto 8080  
 Usuario: admin  
-Password:  password
+Password:  password  
 Instalación:  
 1.- Ir a la carperta en la que esté instalada docker  
 2.- git clone https://github.com/pitiritic/espocrm.git  
